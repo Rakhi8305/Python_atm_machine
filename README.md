@@ -1,5 +1,4 @@
 # Python_atm_machine
-# ATM Machine Simulator
 
 A simple beginner-friendly ATM Machine project built using Python.  
 This project simulates basic ATM operations using loops and conditional statements.
